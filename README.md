@@ -1,1 +1,2 @@
-HAMOYE Data Science Internship: Stage A Quiz attempt
+HAMOYE Data Science Internship:
+  This repository contains quiz attempt codes for each internship stages
